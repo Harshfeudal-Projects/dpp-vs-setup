@@ -1,11 +1,11 @@
-<div align="center"><img src="docpages/DPP-markdown-logo.png" alt="DPP"/>
+<div align="center"><img src="https://github.com/brainboxdotcc/DPP/blob/master/docpages/DPP-markdown-logo.png?raw=true" width="200" height="200"/>
 <h1>Dpp Visual Studio Template</h1>
     <b>
         <p>A neat setup for C++ Discord bot, using Dpp version 10.0.21</p>
     </b>
 
-[![GitHub issues](https://img.shields.io/github/issues/Harshfeudal-Projects/Raiden-Shogun)](https://github.com/Harshfeudal-Projects/Raiden-Shogun/issues)
-[![GitHub license](https://img.shields.io/github/license/Harshfeudal-Projects/Raiden-Shogun?color=brightgreen)](https://github.com/Harshfeudal-Projects/Raiden-Shogun/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Harshfeudal-Projects/setup-vs)](https://github.com/Harshfeudal-Projects/Raiden-Shogun/issues)
+[![GitHub license](https://img.shields.io/github/license/Harshfeudal-Projects/setup-vs?color=brightgreen)](https://github.com/Harshfeudal-Projects/Raiden-Shogun/blob/main/LICENSE)
 </div>
 
 ### :pencil: About this project
@@ -17,8 +17,6 @@
 These are libraries that we're using in this project:
 - [Dpp](https://github.com/brainboxdotcc/DPP) - version `10.0.21` (latest)
 - [Spdlog](https://github.com/gabime/spdlog) - version `1.11.0` (latest)
-
- For downloading **latest version**, please click [here](https://github.com/Harshfeudal-Projects/Raiden-Shogun/releases).
 
 ### 🚨 Generate and use
  This project was made by Visual Studio, so basically you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
