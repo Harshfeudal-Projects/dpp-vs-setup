@@ -10,8 +10,8 @@
 
 ### :pencil: About this project
 - This project is owned by [@harshfeudal](https://github.com/harshfeudal). You can join my Discord server [here](https://discord.gg/BAk2CXpRAT)!
-- This respiratory is under-construction! I'll update it as soon as possible.
-- I'm not highly recommended you to use C++ to code a Discord bot, instead of JavaScript or others library. To know how's this project works, you should learn some basics about C++ so that you can know what I am doing.
+- This repository is under construction! I'll update it as soon as possible.
+- If you're a rather inexperience developer in general, consider using libraries for languages like JavaScript or Python instead or take a C++ course. To know how this project works, you should at least learn some basics about C++ so that you understand what I am doing.
 
 ### 📚 Libraries and version
 These are libraries that we're using in this project:
@@ -38,19 +38,19 @@ These are libraries that we're using in this project:
  ```
 
  ### 📜 Some notes
- This project is currently support for who is in these cases:
- - Microsoft Windows 10 or up
- - Visual Studio platform 
+ This project is currently supporting the following technologies:
+ - Microsoft Windows 10 or later
+ - Visual Studio/Visual C++ platform 
  - C++ 17 `ISO/IEC 14882`
 
- Other cases may not compile or crash occurs.
+ Other cases may or may not compile and can lead to unexpected and unwanted behavior.
 
  ### 🤝 Support me
  - Please leave me a star if you like it. Thank you very much!
  - You can probably help me to develop this project too by DMing me on my [Discord profile (Harshfeudal#0001)](https://discord.com/users/622450109317251088).
 
  ### :computer: Contribution and Pull Request
-  I'd probably glad to see if you have anything new to help and support me. To do that, please make one and before you do that, just make sure you've tested the code by using your bot. I won't bite you if you do wrong, but just make sure that you need to test it clearly before I merge it.
+  I'd be very glad to see if you have anything new to help and support me. To do that, please create a PR and please make sure you've tested the code by using your bot. I won't bite you if you're doing something wrong, but just make sure that you need to test it clearly before I merge it.
 
  ### 👷 Questions - Bugs
  - Please open an ISSUE TEMPLATE for asking question or report if this repo has bugs!
