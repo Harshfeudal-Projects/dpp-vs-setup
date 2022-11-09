@@ -9,9 +9,8 @@
 </div>
 
 ### :pencil: About this project
+- A setup respiratory for Visual Studio to make a Discord bot using D++ version 10.0.21
 - This project is owned by [@harshfeudal](https://github.com/harshfeudal). You can join my Discord server [here](https://discord.gg/BAk2CXpRAT)!
-- This respiratory is under-construction! I'll update it as soon as possible.
-- I'm not highly recommended you to use C++ to code a Discord bot, instead of JavaScript or others library. To know how's this project works, you should learn some basics about C++ so that you can know what I am doing.
 
 ### 📚 Libraries and version
 These are libraries that we're using in this project:
