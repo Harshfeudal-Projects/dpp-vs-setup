@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/brainboxdotcc/DPP/blob/master/docpages/DPP-markdown-logo.png?raw=true" width="200" height="200"/>
+<div align="center"><img src="https://github.com/brainboxdotcc/DPP/blob/master/docpages/DPP-markdown-logo.png?raw=true"/>
 <h1>Dpp Visual Studio Template</h1>
     <b>
         <p>A neat setup for C++ Discord bot, using Dpp version 10.0.21</p>
