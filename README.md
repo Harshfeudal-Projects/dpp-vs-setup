@@ -17,7 +17,7 @@ These are libraries that we're using in this project:
 - [Dpp](https://github.com/brainboxdotcc/DPP) - version `10.0.21` (latest)
 - [Spdlog](https://github.com/gabime/spdlog) - version `1.11.0` (latest)
 
-The bot code example is officially extracted from [Raiden Shogun](https://github.com/Harshfeudal-Projects/Raiden-Shogun) by Harshfeudal. If you see any error in this code please contact to me so that I can fix it and sync with this respiratory!
+The bot code example is officially extracted from [Raiden Shogun](https://github.com/Harshfeudal-Projects/Raiden-Shogun) by Harshfeudal. If you see any error in this code please contact to me so that I can fix it and sync with this repository!
 
 ### 🚨 Generate and use
  This project was made for Visual Studio, however you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
@@ -56,7 +56,7 @@ The bot code example is officially extracted from [Raiden Shogun](https://github
  ### 👷 Questions - Bugs
  - Please open an ISSUE TEMPLATE for asking question or report if this repo has bugs!
  - More command example: please visit [here](https://github.com/Harshfeudal-Projects/Raiden-Shogun)!
- - The FAQ markdown list will be added when I saw a lot of same question in this respiratory issue.
+ - The FAQ markdown list will be added when I saw a lot of same question in this repository issue.
 
  ### :sparkling_heart: Special thanks
   - My companions on D++ Discord server!
