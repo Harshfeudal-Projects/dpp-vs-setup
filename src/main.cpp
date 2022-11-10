@@ -17,7 +17,6 @@ int main()
 		std::ifstream reading("config.json");
 		
 		reading >> reader;
-		reading.close();
 	}
 
 	dpp::cluster client(reader["token"], dpp::i_all_intents);
