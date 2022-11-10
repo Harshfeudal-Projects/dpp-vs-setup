@@ -9,7 +9,7 @@
 </div>
 
 ### :pencil: About this project
-- A setup respiratory for Visual Studio to make a Discord bot using D++ version 10.0.21
+- A setup repository for Visual Studio to make a Discord bot using D++ version 10.0.21
 - This project is owned by [@harshfeudal](https://github.com/harshfeudal). You can join my Discord server [here](https://discord.gg/BAk2CXpRAT)!
 
 ### 📚 Libraries and version
@@ -17,10 +17,10 @@ These are libraries that we're using in this project:
 - [Dpp](https://github.com/brainboxdotcc/DPP) - version `10.0.21` (latest)
 - [Spdlog](https://github.com/gabime/spdlog) - version `1.11.0` (latest)
 
-The bot code example is officially collected from [Raiden Shogun](https://github.com/Harshfeudal-Projects/Raiden-Shogun) by Harshfeudal. If you see any error in this code please contact to me so that I can fix it and sync with this respiratory!
+The bot code example is officially extracted from [Raiden Shogun](https://github.com/Harshfeudal-Projects/Raiden-Shogun) by Harshfeudal. If you see any error in this code please contact to me so that I can fix it and sync with this respiratory!
 
 ### 🚨 Generate and use
- This project was made by Visual Studio, so basically you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
+ This project was made for Visual Studio, however you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
 
  So basically, I have written `premake5.lua` for generating it. Here are these steps:
  1. On that terminal, type:
