@@ -1,22 +1,24 @@
-name: Bug Report
-description: Create a bug report
+name: Bug Report & Questions
+description: Create a bug report or asking a question
 labels:
   - 'kind: bug'
+  - 'kind: question'
 body:
   - type: markdown
     attributes:
       value: >
         Thanks for reporting! 
-        Please note that you should have a **short title** about describe what the bug is!
+        Please note that you should have a **short title** about describe what the bug is - or, the question!
         If you have any further question, you can join my [Discord server](https://discord.gg/y2DxRWbYsF)!
   - type: textarea
     id: summary
     attributes:
-      label: Description
+      label: Description - Question
       description: >
         Please provide an abstract description of the issue to the developers,
         and why you consider it to be a bug. Please include any specific links
-        to the documentation, JSON specification, or code.
+        to the documentation, JSON specification, or code. If it is about question,
+        please write your question here and type "N/A" in other fields!
     validations:
       required: true
   - type: textarea
@@ -83,5 +85,5 @@ body:
       description: >
         Please check these additional steps:
       options:
-        - label: The bug also occurs if the latest version from the [`develop`](https://github.com/harshfeudal-projects/raiden-shogun/releases) branch is used.
-        - label: I have met all requirements about [your instructions](https://github.com/Harshfeudal-Projects/Raiden-Shogun/blob/main/README.md) on `REAMDE.md`.
+        - label: The bug also occurs if the latest version from the [`develop`](https://github.com/Harshfeudal-Projects/dpp-vs-setup/releases/latest) branch is used.
+        - label: I have met all requirements about [your instructions](https://github.com/Harshfeudal-Projects/dpp-vs-setup/blob/main/README.md) on `REAMDE.md`.
