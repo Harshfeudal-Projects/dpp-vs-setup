@@ -20,7 +20,7 @@ These are libraries that we're using in this project:
 The bot code example is officially extracted from [Raiden Shogun](https://github.com/Harshfeudal-Projects/Raiden-Shogun) by Harshfeudal. If you see any error in this code please contact to me so that I can fix it and sync with this respiratory!
 
 ### 🚨 Generate and use
- This project was made by Visual Studio, so basically you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
+ This project was made for Visual Studio, so basically you cannot see my `.sln` file to open because I have ignored it. To use this project, you should generate it by using [Premake](https://premake.github.io/).
 
  So basically, I have written `premake5.lua` for generating it. Here are these steps:
  1. On that terminal, type:
