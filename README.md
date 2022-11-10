@@ -9,7 +9,7 @@
 </div>
 
 ### :pencil: About this project
-- A setup respiratory for Visual Studio to make a Discord bot using D++ version 10.0.21
+- A setup repository for Visual Studio to make a Discord bot using D++ version 10.0.21
 - This project is owned by [@harshfeudal](https://github.com/harshfeudal). You can join my Discord server [here](https://discord.gg/BAk2CXpRAT)!
 
 ### 📚 Libraries and version
