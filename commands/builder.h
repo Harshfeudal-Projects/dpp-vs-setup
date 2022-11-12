@@ -4,10 +4,10 @@
 
 #include "handler.h"
 
-#include "commands/ping.h"
-#include "commands/kick.h"
-#include "commands/userinfo.h"
-#include "commands/prune.h"
+#include "ping.h"
+#include "kick.h"
+#include "userinfo.h"
+#include "prune.h"
 
 void SlashCommandCreate(dpp::cluster& client);
 

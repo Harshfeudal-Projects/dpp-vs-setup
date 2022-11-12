@@ -4,7 +4,7 @@
 #include "../commands/userinfo.h"
 #include "../commands/handler.h"
 
-void EmbedBuild(dpp::embed& embed, std::string avatar, std::string usrName, std::string usrID, std::string created, const dpp::user& tgtUser);
+inline void EmbedBuild(dpp::embed& embed, std::string avatar, std::string usrName, std::string usrID, std::string created, const dpp::user& tgtUser);
 
 void userInfo(dpp::cluster& client, const dpp::slashcommand_t& event)
 {
@@ -42,7 +42,7 @@ void userInfo(dpp::cluster& client, const dpp::slashcommand_t& event)
 	}
 }
 
-void EmbedBuild(dpp::embed& embed, std::string avatar, std::string usrName, std::string usrID, std::string created, const dpp::user& tgtUser)
+inline void EmbedBuild(dpp::embed& embed, std::string avatar, std::string usrName, std::string usrID, std::string created, const dpp::user& tgtUser)
 {
 	embed = dpp::embed().set_color(0xAA7EEE)
                         .set_title("User Information")
